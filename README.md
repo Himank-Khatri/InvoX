@@ -3,7 +3,8 @@
 InvoX allows you to upload invoice images and ask questions about them. It leverages the Gemini Pro Vision model to analyze the invoice and provide answers based on the image content.
 
 # Screenshot
-![{86A39CCA-CC68-43DA-80AD-BFDCE39F38DC}](https://github.com/user-attachments/assets/a694d06d-0cf0-4c6f-a54b-61e6c747bac5)
+![{575947D4-92D3-4FD5-B982-BCF5FA502C56}](https://github.com/user-attachments/assets/57e1e458-837e-45a8-bfb1-b1f66af4933d)
+
 
 ## Installation
 
